@@ -15,7 +15,7 @@ public class Biblioteca {
         
         System.out.println(" O nome do livro é: " + livro.getNome + " sua Categoria é: " + livro.getCategoria
                 + "seu Autor é: " + livro.getAutor);
-        System.out.println(" O nome do livro é: " + livro.getNome + " sua Categoria é: " + livro.getCategoria
-                + "seu Autor é: " + livro.getAutor);
+        System.out.println(" O nome do livro é: " + livro1.getNome + " sua Categoria é: " + livro1.getCategoria
+                + "seu Autor é: " + livro1.getAutor);
     }
 }
