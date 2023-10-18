@@ -3,12 +3,12 @@ public class Biblioteca {
 
     public static void main(String[] args) {
 
-        Livro livro = new Livro();
+        Livro livro = new livro();
         livro.nome = (" Java 2 ");
         livro.categoria = (" programacao ");
         livro.autor = (" Jorge ");
 
-        Livro livro1 = new Livro();
+        Livro livro1 = new livro();
         livro1.nome = (" Java 10 ");
         livro1.categoria = (" programacao orientada a objeto ");
         livro1.autor = (" Jorge1 ");
